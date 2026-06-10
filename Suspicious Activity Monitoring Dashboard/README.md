@@ -43,4 +43,4 @@ Financial institutions process millions of transactions and need efficient ways 
 
 ## Dashboard Preview
 
-![Dashboard](Dashboard.png)
+![Dashboard](dashboard.png)
