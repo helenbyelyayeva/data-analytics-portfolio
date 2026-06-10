@@ -14,6 +14,6 @@ This project explores transaction data to identify potentially suspicious custom
 **Tools:** SQL, Tableau
 
 📂 Project Folder:
-[Suspicious Activity Monitoring Dashboard](https://github.com/helenbyelyayeva/data-analytics-portfolio/blob/main/Suspicious-Activity-Monitoring-Dashboard)
+[Suspicious Activity Monitoring Dashboard](https://github.com/helenbyelyayeva/data-analytics-portfolio/tree/main/Suspicious%20Activity%20Monitoring%20Dashboard)
 
 ---
