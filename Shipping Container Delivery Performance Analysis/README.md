@@ -29,6 +29,6 @@ This project evaluates shipment delivery performance using container tracking da
 
 ## Repository Contents
 
-- [`Shipping_Container_Delivery_Performance_Analysis.ipynb](Shipping_Container_Delivery_Performance_Analysis.ipynb) – complete analysis notebook
-- `Dataset archive is not included due to file size. Data source: [Container Tracking Data Set](https://www.kaggle.com/datasets/muzammalnawaz/container-tracking-data-set)
+- [Shipping_Container_Delivery_Performance_Analysis.ipynb](Shipping_Container_Delivery_Performance_Analysis.ipynb) – complete analysis notebook
+- Dataset archive is not included due to file size. Data source: [Container Tracking Data Set](https://www.kaggle.com/datasets/muzammalnawaz/container-tracking-data-set)
 

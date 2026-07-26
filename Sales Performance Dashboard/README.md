@@ -2,7 +2,11 @@
 
 ## Live Demo
 
-🔗 View the interactive Google Sheets dashboard: [project](https://docs.google.com/spreadsheets/d/1qVV5NqQv6-cszUtz3RKpwy2u01v4D7oBOYMj2D_Ig6c/edit?usp=sharing)
+🔗 View the interactive Google Sheets dashboard: 
+[Project](https://docs.google.com/spreadsheets/d/1qVV5NqQv6-cszUtz3RKpwy2u01v4D7oBOYMj2D_Ig6c/edit?usp=sharing)
+
+## Dashboard Preview
+![Sales](sales.png)
 
 ## Project Overview
 
@@ -45,6 +49,3 @@ It automatically creates:
 
 The script processes all rows in one batch and writes the updated data back to the spreadsheet.
 
-## Repository Contents
-
-- `updateCalculatedColumns.js` — Google Apps Script automation

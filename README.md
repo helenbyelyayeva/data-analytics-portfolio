@@ -13,8 +13,7 @@ This project explores transaction data to identify potentially suspicious custom
 
 **Tools:** SQL, Tableau
 
-📂 Project Folder:
-[Suspicious Activity Monitoring Dashboard](https://github.com/helenbyelyayeva/data-analytics-portfolio/tree/main/Suspicious%20Activity%20Monitoring%20Dashboard)
+📂 Project Folder: [Suspicious Activity Monitoring Dashboard](https://github.com/helenbyelyayeva/data-analytics-portfolio/tree/main/Suspicious%20Activity%20Monitoring%20Dashboard)
 
 ---
 
@@ -25,8 +24,7 @@ This project analyzes container shipment data to evaluate delivery performance a
 
 **Tools:** Python, Pandas, NumPy, Matplotlib, Jupyter Notebook
 
-📂 Project Folder:
-[Shipping Container Delivery Performance Analysis](...)
+📂 Project Folder: [Shipping Container Delivery Performance Analysis](https://github.com/helenbyelyayeva/data-analytics-portfolio/tree/main/Shipping%20Container%20Delivery%20Performance%20Analysis)
 
 ---
 
@@ -36,5 +34,4 @@ This project analyzes sales data using pivot tables, KPIs, and an interactive sp
 
 **Tools:** Excel, Google Sheets, Pivot Tables, Google Apps Script, JavaScript
 
-📂 Project Folder:  
-[Sales Performance Dashboard](...)
+📂 Project Folder: [Sales Performance Dashboard](https://github.com/helenbyelyayeva/data-analytics-portfolio/tree/main/Sales%20Performance%20Dashboard)
